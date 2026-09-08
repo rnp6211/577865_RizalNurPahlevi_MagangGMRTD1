@@ -6,11 +6,15 @@
 
 ## Solusi yang diselesaikan
 - [x] Problem 1:
+    - Masalah - Mencari langkah terkecil untuk menyeimbangkan barang di kotak
     - Koreksi - k,n,m -> n,m,k
-    - Solusi - mencoba semua kemungkinan secara rekursif
+    - Solusi - Mencoba semua kemungkinan secara rekursif
 - [x] Problem 2:
-    - Solusi - mencoba semua kemungkinan secara rekursif
+    - Masalah - Mencari kemungkinan misi terbanyak yang dapat dilakukan
+    - Solusi - Mencoba semua kemungkinan secara rekursif
 - [x] Problem 3:
-    - Solusi - mencari kemungkinan yang pertama didapat 
+    - Masalah - Menentukan apakah dapat membuka semua loker menggunakan 1 kunci
+    - Solusi - Mencari kemungkinan yang pertama didapat 
 - [x] Problem 4:
-    - Solusi - menggunakan depth-checking
+    - Masalah - Menentukan apakah instruksi valid
+    - Solusi - Menggunakan depth-checking
